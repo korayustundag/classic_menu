@@ -1,0 +1,31 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36518.9
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "classic_menu", "classic_menu\classic_menu.vcxproj", "{A74A771C-6007-473B-8AB4-73FD17FCEA32}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "classic_menu_gui", "classic_menu_gui\classic_menu_gui.vcxproj", "{92445309-86CA-4F6C-92B6-3BB7FAFF8954}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A74A771C-6007-473B-8AB4-73FD17FCEA32}.Debug|x64.ActiveCfg = Debug|x64
+		{A74A771C-6007-473B-8AB4-73FD17FCEA32}.Debug|x64.Build.0 = Debug|x64
+		{A74A771C-6007-473B-8AB4-73FD17FCEA32}.Release|x64.ActiveCfg = Release|x64
+		{A74A771C-6007-473B-8AB4-73FD17FCEA32}.Release|x64.Build.0 = Release|x64
+		{92445309-86CA-4F6C-92B6-3BB7FAFF8954}.Debug|x64.ActiveCfg = Debug|x64
+		{92445309-86CA-4F6C-92B6-3BB7FAFF8954}.Debug|x64.Build.0 = Debug|x64
+		{92445309-86CA-4F6C-92B6-3BB7FAFF8954}.Release|x64.ActiveCfg = Release|x64
+		{92445309-86CA-4F6C-92B6-3BB7FAFF8954}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B29D38D-697D-45AD-956B-165AA1367D13}
+	EndGlobalSection
+EndGlobal
