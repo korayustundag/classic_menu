@@ -15,6 +15,10 @@ This utility allows you to easily switch between the new Windows 11 context menu
 - **Visual Feedback**: Confirmation dialogs and status messages
 - **Optional Explorer Restart**: Choose whether to restart Explorer automatically
 - **Modern UI**: Clean Windows 11-style interface
+
+GUI Version Interface:
+
+![Screenshot](https://github.com/korayustundag/classic_menu/blob/main/Screenshots/Screenshot_GUI.png)
 ## Usage
 ### Command-Line Version
 ### Enable Classic Menu
